@@ -1,4 +1,5 @@
-**👋 Hi, I’m Jeffrey Ymor!**\n
+**👋 Hi, I’m Jeffrey Ymor!**
+
 **Email: jeffreyymor.calayag@gmail.com**
 
 I’m an aspiring developer who is open to work and continuously learning Python. I enjoy building small personal projects to strengthen my programming fundamentals and problem-solving skills.
