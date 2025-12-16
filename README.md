@@ -5,6 +5,7 @@
 I’m an aspiring developer who is open to work and continuously learning Python. I enjoy building small personal projects to strengthen my programming fundamentals and problem-solving skills.
 
 **🚧 What I’m Currently Working On**
+
 I’m actively learning Python by creating small personal projects, including:
 + ♠️ Blackjack Game
 + 🧮 Calculator Project
