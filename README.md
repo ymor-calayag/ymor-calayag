@@ -1,6 +1,6 @@
 **👋 Hi, I’m Jeffrey Ymor!**
 
-**Email: jeffreyymor.calayag@gmail.com**
+📧 jeffreyymor.calayag@gmail.com**
 
 I’m an aspiring developer who is open to work and continuously learning Python. I enjoy building small personal projects to strengthen my programming fundamentals and problem-solving skills.
 
@@ -12,6 +12,7 @@ I’m actively learning Python by creating small personal projects, including:
 + 🔄 Caesar Cipher
 + 🎮 Hangman Game
 + 🔑 Password Generator
+
 More projects will be added as I continue learning and improving.
 
 **🛠 Tools & Technologies**
