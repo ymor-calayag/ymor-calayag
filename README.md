@@ -7,10 +7,24 @@ I’m an aspiring developer who is open to work and continuously learning Python
 **🚧 What I’m Currently Working On**
 
 I’m actively learning Python by creating small personal projects, including:
-| ♠️ Blackjack Game        | 🔄 Caesar Cipher   | 🧮 Calculator Project   |
-|-------------------------|-------------------|------------------------|
-| 🔐 Secret Auction       | 🎮 Hangman Game   | 🔑 Password Generator         |
-| 🔢 Number Guessing Game   |                          |                        |
+<table>
+  <tr>
+    <td align="left">♠️ Blackjack Game</td>
+    <td align="left">🔄 Caesar Cipher</td>
+    <td align="left">🧮 Calculator Project</td>
+  </tr>
+  <tr>
+    <td align="left">🔐 Secret Auction</td>
+    <td align="left">🎮 Hangman Game</td>
+    <td align="left">🔑 Password Generator</td>
+  </tr>
+  <tr>
+    <td align="left">🔢 Number Guessing Game</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 
 More projects will be added as I continue learning and improving.
 
