@@ -7,8 +7,8 @@ I’m an aspiring developer who is open to work and continuously learning Python
 **🚧 What I’m Currently Working On**
 
 I’m actively learning Python by creating small personal projects, including:
-+ ♠️ Blackjack Game
-+ 🧮 Calculator Project
++ ♠️ Blackjack Game          + 🔢 Number Guessing Game
++ 🧮 Calculator Project      
 + 🔐 Secret Auction
 + 🔄 Caesar Cipher
 + 🎮 Hangman Game
