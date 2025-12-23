@@ -20,7 +20,7 @@ I’m actively learning Python by creating small personal projects, including:
   </tr>
   <tr>
     <td align="left">🔢 Number Guessing Game</td>
-    <td></td>
+    <td align="left">📊 Higher Lower Game</td>
     <td></td>
   </tr>
 </table>
