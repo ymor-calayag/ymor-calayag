@@ -9,7 +9,7 @@ I’m an aspiring developer who is open to work and continuously learning Python
 I’m actively learning Python by creating small personal projects, including:
 <table>
   <tr>
-    <td align="left">♠️ Blackjack Game</td>
+    <td align="left"><a href="https://github.com/ymor-calayag/blackjack_game">♠️ Blackjack Game</a></td>
     <td align="left">🔄 Caesar Cipher</td>
     <td align="left">🧮 Calculator Project</td>
   </tr>
