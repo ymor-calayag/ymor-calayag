@@ -18,9 +18,9 @@ I’m actively learning Python by creating small personal projects, including:
     <td align="left">🎮 <a href="https://github.com/ymor-calayag/hangman_game">Hangman Game</a></td>
     <td align="left">🔑 <a href="https://github.com/ymor-calayag/password_generator">Password Generator</a></td>
     <td align="left">🔢 <a href="https://github.com/ymor-calayag/number_guessing_game">Number Guessing Game</a></td>
+    <td align="left">📊 <a href="https://github.com/ymor-calayag/higher_lower_game">Higher Lower Game</a></td>
   </tr>
   <tr>
-    <td align="left">📊 <a href="https://github.com/ymor-calayag/higher_lower_game">Higher Lower Game</a></td>
     <td align="left">☕ <a href="https://github.com/ymor-calayag/coffee_machine">Coffee Machine</a></td>
     <td align="left">📝 <a href="https://github.com/ymor-calayag/quiz_game">Quiz Game</a></td>
   </tr>
