@@ -24,6 +24,7 @@ I’m actively learning Python by creating small personal projects, including:
     <td align="left">☕ <a href="https://github.com/ymor-calayag/coffee_machine">Coffee Machine</a></td>
     <td align="left">📝 <a href="https://github.com/ymor-calayag/quiz_game">Quiz Game</a></td>
     <td align="left">🐍 <a href="https://github.com/ymor-calayag/snake-game">Snake Game</a></td>
+    <td align="left">🏓 <a href="https://github.com/ymor-calayag/pong-game">Pong Game</a></td>
   </tr>
 </table>
 
